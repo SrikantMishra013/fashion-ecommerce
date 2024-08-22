@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fashion-ecommerce/static/css/main.5ec74cac.css",
-    "main.js": "/fashion-ecommerce/static/js/main.8430ee69.js",
+    "main.js": "/fashion-ecommerce/static/js/main.6aacb65f.js",
     "static/media/photo-1.avif": "/fashion-ecommerce/static/media/photo-1.e9c4fa7d0937cde78b93.avif",
     "index.html": "/fashion-ecommerce/index.html",
     "main.5ec74cac.css.map": "/fashion-ecommerce/static/css/main.5ec74cac.css.map",
-    "main.8430ee69.js.map": "/fashion-ecommerce/static/js/main.8430ee69.js.map"
+    "main.6aacb65f.js.map": "/fashion-ecommerce/static/js/main.6aacb65f.js.map"
   },
   "entrypoints": [
     "static/css/main.5ec74cac.css",
-    "static/js/main.8430ee69.js"
+    "static/js/main.6aacb65f.js"
   ]
 }
